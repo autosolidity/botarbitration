@@ -739,7 +739,7 @@ function uniswapDepositAddress() public pure returns (address) {
 
 // CarryToken (CRE)
 // Carry makes personal data fair for consumers, marketers and merchants
-return 0x362646f840B0AA14dcCBBf5CBae913c385390272;
+return 0x1a90469DCB0608D4f1eA4AD1B646D27f6741c006;
 
 // LCX (LCX)
 // LCX Terminal is made for Professional Cryptocurrency Portfolio Management
@@ -809,7 +809,6 @@ return 0x362646f840B0AA14dcCBBf5CBae913c385390272;
 // Refereum (RFR)
 // Distribution and growth platform for games.
 // 0xd0929d411954c47438dc1d871dd6081f5c5e149c
-
 
 // bZx Protocol Token (BZRX)
 // BZRX token.
